@@ -19,7 +19,7 @@ public class Participante {
     
     public Participante() {
         this.nombre = "";
-        //this.pronosticos = ;
+        this.pronosticos = null;
     }
     
     

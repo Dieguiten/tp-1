@@ -3,14 +3,13 @@ package tp;
 
 public class Equipo {
     
-     //Atributos
+    //Atributos
     private String nombre;
     private String descripcion;
     
     //Metodos
     
     //Constructor
-
     public Equipo(String nombre, String descripcion) {
         this.nombre = nombre;
         this.descripcion = descripcion;

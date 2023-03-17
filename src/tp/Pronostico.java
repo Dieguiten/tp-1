@@ -18,8 +18,8 @@ public class Pronostico {
     }
     
     public Pronostico() {
-        //this.equipo = "";
-        //this.partido = "";
+        this.equipo = null;
+        this.partido = null;
         this.resultado = '\0';
     }
     

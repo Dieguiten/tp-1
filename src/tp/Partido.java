@@ -20,8 +20,8 @@ public class Partido {
     }
     
     public Partido() {
-        //this.equipo1 = equipo1;
-        //this.equipo2 = equipo2;
+        this.equipo1 = null;
+        this.equipo2 = null;
         this.golesEquipo1 = 0;
         this.golesEquipo2 = 0;
     }
