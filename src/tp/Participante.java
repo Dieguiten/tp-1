@@ -6,6 +6,7 @@ public class Participante {
     //Atributos
     private String nombre;
     private Pronostico[] pronosticos;
+    //Pronostico deberia ser un arraylist
     
     //Metodos
     
